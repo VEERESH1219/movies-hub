@@ -9,7 +9,8 @@ int main()
     fprintf(fp, "Pavan\n");
     fprintf(fp, "Sandeep\n");
     fprintf(fp, "Vamsi\n");
-
+    fprintf(fp, "satya\n");
+    
     fclose(fp); 
     printf("File written and closed successfully.\n");
 
